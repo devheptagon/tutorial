@@ -1,7 +1,11 @@
-import { pow } from "./index.js";
+import { sumAll, reverse } from "./index.js";
 
-describe("index functions are being tested", function () {
-  test("should pow return power of base", function () {
-    expect(pow(5, 2)).toBe(25);
+describe("index function are being tested", function () {
+  test("sumAll is being tested", function () {
+    expect(sumAll(5, 10)).toBe(15);
+  });
+
+  test("reverse is tested", function () {
+    expect(reverse("hello ebru")).toBe("urbe olleh");
   });
 });
