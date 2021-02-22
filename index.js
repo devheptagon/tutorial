@@ -14,6 +14,6 @@ export function reverse(str) {
     let current = characters[i];
     result += current;
   }
-
+console.log("elif");
   return result;
 }
