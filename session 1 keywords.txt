@@ -1,0 +1,19 @@
+ECMAScript vs Javascript, ES5, ES6…
+
+Transpilation, Babel, Pollyfills
+
+TypeScript
+
+Chrome Console
+
+V8
+
+Node
+
+Node console
+
+Browser vs node, window object
+
+Npm init
+
+Hot reloading, fast refresh
